@@ -1,0 +1,7 @@
+windows 11
+
+wget -O w11lite.sh https://bit.ly/w11rdpLite
+
+chmod +x w11lite.sh
+
+./w11lite.sh
